@@ -1,6 +1,7 @@
 - 👋 Hi, I’m KUSHAGRA AGARWAL 
 - 👀 I’m interested in StartUps a lot
-- 🌱 I’m currently learning and belives on "Every day is a learning day".
+- 🌱 I’m currently studying in NIT Kurukshetra CSE.
+- 📫 Trying to learn something about everything and everything about something.
 - 👀 My hobbies include Singing and playing guitar.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on Linkdin via https://www.linkedin.com/in/kushagra-agarwal-319245219/
