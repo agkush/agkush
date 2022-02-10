@@ -1,5 +1,4 @@
 - 👋 Hi, I’m KUSHAGRA AGARWAL 
-- 👀 I’m interested in StartUps a lot
 - 🌱 I’m currently studying in NIT Kurukshetra CSE.
 - 📫 Trying to learn something about everything and everything about something.
 - 👀 My hobbies include Singing and playing guitar.
