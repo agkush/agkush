@@ -1,4 +1,4 @@
-
+<img src="https://github.com/agkush/agkush/blob/main/banner.png" alt="Hello world">
 
 <h1 align="center">Hi 👋, I'm Kushagra Agarwal</h1>
 <h3 align="center">A passionate Programmer, Developer & Learner from India</h3>
