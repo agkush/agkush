@@ -5,7 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://agkush.github.io/MyWebsite/](https://agkush.github.io/MyWebsite/)
 
-- 📫 How to reach me **agkush2001@gmail.com**
 - 🚀 Always ready to collaborate for Dev Experiments
 
 <h3 align="left">Connect with me:</h3>
